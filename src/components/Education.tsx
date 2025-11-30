@@ -54,6 +54,22 @@ const Education = () => {
       level: 'Professional',
       link: 'https://www.credly.com/badges/0255787f-1ac1-4c0f-a05e-be441db8dd2a/linked_in_profile?trk=public_profile_see-credential'
     },
+    {
+      title: 'Oracle AI Cloud Database Services Certified Professional',
+      issuer: 'Oracle',
+      date: '2025',
+      icon: <Star className="w-5 h-5" />,
+      level: 'Professional',
+      link: 'https://catalog-education.oracle.com/ords/certview/sharebadge?id=BAE850F40776EE331BBFA24E884851D35CB934DC2A7439D2FCF9F8EF6371179E'
+    },
+    {
+      title: 'Oracle Cloud Infrastructure Certified Data Science Professional',
+      issuer: 'Oracle',
+      date: '2025',
+      icon: <Star className="w-5 h-5" />,
+      level: 'Professional',
+      link: 'https://catalog-education.oracle.com/ords/certview/sharebadge?id=4ABD0013EF3B212D75B23382A7F6F17F19F3B27F27CFF02E772A2E9D4294E12C'
+    },
     // {
     //   title: 'Microsoft Azure AI Engineer Associate',
     //   issuer: 'Microsoft',
