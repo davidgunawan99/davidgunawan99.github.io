@@ -10,7 +10,7 @@ const Experience = () => {
       company: 'Volkswagen Financial Services',
       location: 'Sydney',
       period: 'Dec 2025 - Present',
-      description: "As a Campaign and Digital Customer Experience Analyst, I am working across Marketing & Brand and Product department by delivering actionable insights through data analysis and reporting. The role will focus on enhancing customer satisfaction,driving digital sales growth, marketing campaign engagement, and optimising the customerjourney within an automative financier’s digital ecosystem.",
+      description: "As a Campaign and Digital Customer Experience Analyst, I am working across Marketing & Brand and Product department by delivering actionable insights through data analysis and reporting. The role will focus on enhancing customer satisfaction,driving digital sales growth, marketing campaign engagement, and optimising the customer journey within an automative financier’s digital ecosystem.",
       responsibility: [
         'Delivered actionable data insights and reporting  for the Digital, Marketing, Product, Brand, and Pricing departments.',
         'Work closely with the Digital Program Manager to assess the performance of digital initiatives.',

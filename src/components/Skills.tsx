@@ -48,7 +48,7 @@ const Skills = () => {
       title: 'SaaS',
       icon: <Blocks className="w-6 h-6" />,
       color: 'cyan',
-      skills: ['Qualtrics', 'Confirmit (Forsta)', 'Voxco', 'Salesforce', 'SAP', 'IBM SPSS'],
+      skills: ['Qualtrics', 'Confirmit (Forsta)', 'Voxco', 'Salesforce', 'SAP', 'IBM SPSS','SAP BI'],
     },
   ];
 
