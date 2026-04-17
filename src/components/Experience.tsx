@@ -6,10 +6,26 @@ const Experience = () => {
 
   const experiences = [
     {
+      title: 'Campaign and Digital Customer Experience Analyst',
+      company: 'Volkswagen Financial Services',
+      location: 'Sydney',
+      period: 'Dec 2025 - Present',
+      description: "As a Campaign and Digital Customer Experience Analyst, I am working across Marketing & Brand and Product department by delivering actionable insights through data analysis and reporting. The role will focus on enhancing customer satisfaction,driving digital sales growth, marketing campaign engagement, and optimising the customerjourney within an automative financier’s digital ecosystem.",
+      responsibility: [
+        'Delivered actionable data insights and reporting  for the Digital, Marketing, Product, Brand, and Pricing departments.',
+        'Work closely with the Digital Program Manager to assess the performance of digital initiatives.',
+        'Built and maintained custom reports and dashboards using Salesforce and SAP BI',
+        'Consolidated diverse data sources into dynamic Excel reports and pivot tables to support business decisions.',
+        'Monitored customer experience metrics and developed journey maps to identify and resolve gaps in the customer lifecycle.',
+        'Optimized customer journeys to drive digital sales and improve customer satisfaction.'
+      ],
+      skills: ['Excel', 'Powerpoint', 'SAP BI', 'Data Analysis (Product, Sales, Marketing & Pricing)', 'Salesforce', 'Adobe Experience Cloud', 'Project Management', 'Stakeholder Management'],
+    },
+    {
       title: 'Senior Consultant (Customer & Growth)',
       company: 'Ernst & Young',
       location: 'Sydney',
-      period: 'Sep 2023 - Present',
+      period: 'Sep 2023 - Dec 2025',
       description: "As a Senior Consultant within EY's Customer and Growth practice, I advise clients on developing and implementing customer-centric strategies and solutions to drive sustainable growth and enhance competitive advantage.",
       responsibility: [
         'Designing and implementing comprehensive Customer Experience (CX) programs through various methodologies, including survey development and deployment.',
