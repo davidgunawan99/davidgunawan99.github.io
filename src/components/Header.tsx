@@ -53,10 +53,10 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-4">
             <ThemeToggle />
             <div className="flex items-center space-x-3 ml-2">
-              <a href="https://github.com/Gunawan888" className="text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-200 hover:scale-110">
+              <a href="https://github.com/davidgunawan99" className="text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-200 hover:scale-110">
                 <Github size={20} />
               </a>
-              <a href="https://www.linkedin.com/in/david-gunawan-91bbb6150/" className="text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-200 hover:scale-110">
+              <a href="https://www.linkedin.com/in/david-gunawan99" className="text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-200 hover:scale-110">
                 <Linkedin size={20} />
               </a>
               <a href="mailto:david.gunawan888@gmail.com" className="text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-200 hover:scale-110">
